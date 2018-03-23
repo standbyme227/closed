@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
-title: Type on Strap # site's title
+url: "https://standbyme227.github.io"
+title: 오늘은 뭐했고, 오늘은 뭐할까? # site's title
 description: "A website with blog posts and pages" # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
