@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DRF serializer's validate
+title: [DRF] serializer's validate
 tags: [Django, 장고, Serializer, validate, validation, DRF]
 ---
 
