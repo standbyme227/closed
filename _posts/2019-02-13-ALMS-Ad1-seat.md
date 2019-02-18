@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Alms] ad1-seat
+title: Alms - ad1-seat
 tags: [Algorithm, 알고리즘, 달팽이]
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: [DRF] serializer's validate
+title: DRF - serializer's validate
 tags: [Django, 장고, Serializer, validate, validation, DRF]
 ---
 
-###Validate
+### Validate
 
 #### 1. 개요
 > Django의 View에서 Data의 Validate 적용이 무시되는 경향을 확인  
