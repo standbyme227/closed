@@ -15,7 +15,7 @@ tags: [django, orm, get_or_create]
 혹시나 없는 객체라면 지정된 kwarg로 생성이 가능하도록  
 예외처리를 미리 해놓는 방법.
 
-```angular2html
+```
 try:
     obj = Person.objects.get(first_name='John', last_name='Lennon')
 except Person.DoesNotExist:
@@ -28,7 +28,7 @@ except Person.DoesNotExist:
 
 > 위 코드처럼 예외처리를 할 수도 있지만
 
-```angular2html
+```
 obj, created = Person.objects.get_or_create(
     first_name='John',
     last_name='Lennon',
